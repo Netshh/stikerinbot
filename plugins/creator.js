@@ -1,10 +1,10 @@
 const { MessageType } = require('@adiwajshing/baileys')
 const PhoneNumber = require('awesome-phonenumber')
 async function handler(m) {
-  let name = 'ariffb'
+  let name = 'Erlangga'
   number = owner[0].replace(/[^0-9]/g, '')
   let njid = number + '@s.whatsapp.net'
-  let onW = await this.isOnWhatsApp(njid) || { isBusiness: false }
+  let onW = await this.isOnWhatsApp(njid) || { isBusiness: True }
 
   let name2 = 'andrian'
   number2 = owner[1].replace(/[^0-9]/g, '')
