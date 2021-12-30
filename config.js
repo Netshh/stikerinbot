@@ -28,8 +28,8 @@ global.APIKeys = { // APIKey nya disini
 }
 
 // Sticker WM
-global.packname = 'arif️'
-global.author = 'amel'
+global.packname = '@netshh_'
+global.author = 'Netsh Bot'
 
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
